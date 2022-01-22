@@ -1,6 +1,6 @@
 # Event Proposal Template
 
-# [Event Proposal] Event title
+## [Event Proposal] Event title
 
 #event #proposal
 
