@@ -23,4 +23,4 @@
 
 # Example event proposal:
 
-[[Event Proposal] Blockchain 101](Event%20Proposal%20Template%20f67b509271714b1cbb4c1e3d6ba0d459/%5BEvent%20Proposal%5D%20Blockchain%20101%203d71955652774794bb673a1603704394.md)
+[[Event Proposal] Blockchain 101](event_and_meeting_protocol/event_proposal_template/event_proposal_template_example.md)
