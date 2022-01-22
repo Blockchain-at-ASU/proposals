@@ -84,7 +84,7 @@ Blockchain at ASU events and meetings will adhere to the following structure:
 - The request should include tags #event, #proposal, and #(event type). It is possible for there to be some overlap with event types. In the case of overlap, include tags for all related event types. For example, if I am planning an educational event on Discord, I would tag both #educational and #discord-session.
 - Use the template below for formatting your event request.
     
-    [Event Proposal Template](event_and_meeting_protocol/event_and_meeting_protocol/event_proposal_template.md)
+    [Event Proposal Template](event_and_meeting_protocol/event_proposal_template.md)
     
 
 # Meetings
@@ -104,4 +104,4 @@ Blockchain at ASU events and meetings will adhere to the following structure:
 
 Club meetings will adhere to the guidelines defined below:
 
-[Planning Effective Meetings](event_and_meeting_protocol/event_and_meeting_protocol/planning_effective_meetings.md)
+[Planning Effective Meetings](event_and_meeting_protocol/planning_effective_meetings.md)
